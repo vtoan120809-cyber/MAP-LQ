@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>Profile Service</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.rxhub.provision</string>
+            <key>PayloadUUID</key>
+            <string>11111111-1111-1111-1111-111111111111</string>
+            <key>PayloadDisplayName</key>
+            <string>RX Provision</string>
+            <key>PayloadDescription</key>
+            <string>Cài đặt chứng chỉ cho ứng dụng</string>
+            <key>URL</key>
+            <string>https://github.com/vtoan120809-cyber/MAP-LQ/raw/refs/heads/main/cert.mobileprovision</string>
+        </dict>
+    </array>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadIdentifier</key>
+    <string>com.rxhub.config</string>
+    <key>PayloadUUID</key>
+    <string>22222222-2222-2222-2222-222222222222</string>
+    <key>PayloadDisplayName</key>
+    <string>RX HUB Certificate Installer</string>
+</dict>
+</plist>

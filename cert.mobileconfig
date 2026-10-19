@@ -4,7 +4,7 @@
 <dict>
     <key>PayloadContent</key>
     <dict>
-        <key> https://github.com/vtoan120809-cyber/MAP-LQ/raw/refs/heads/main/cert.mobileprovision </key>
+        <key>URL</key>
         <string>https://github.com/vtoan120809-cyber/MAP-LQ/raw/refs/heads/main/cert.mobileprovision</string>
         <key>DeviceAttributes</key>
         <array>
